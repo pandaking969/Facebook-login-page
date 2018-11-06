@@ -68,3 +68,19 @@
 	bottom: 164px;
 	left: 490px;
 }
+//de editat!!!!!!!!!!!!!!!
+.semnatura{
+	font-size: 20px;
+	font-style: italic;
+	font-family: Arial;
+
+	position: fixed;
+	bottom: 150px;
+	padding-left: 550px;
+}
+.linie2{
+	width: 85px;
+	position: fixed;
+	bottom: 164px;
+	left: 1000px;
+}
